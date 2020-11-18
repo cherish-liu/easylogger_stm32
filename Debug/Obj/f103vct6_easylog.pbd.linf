@@ -1,12 +1,14 @@
 ﻿E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\f103vct6_easylog.pbd
+E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\gpio.pbi
+E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\led_watchdog.pbi
+E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\rs485.pbi
+E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\uart.pbi
+E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\system_stm32f10x.pbi
+E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\stm32f10x_it.pbi
 E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\elog.pbi
 E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\elog_port.pbi
 E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\elog_utils.pbi
-E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\gpio.pbi
-E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\led_watchdog.pbi
-E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\main.pbi
 E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\misc.pbi
-E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\rs485.pbi
 E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\stm32f10x_adc.pbi
 E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\stm32f10x_bkp.pbi
 E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\stm32f10x_can.pbi
@@ -20,7 +22,6 @@ E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\stm32f10x_flash.pbi
 E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\stm32f10x_fsmc.pbi
 E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\stm32f10x_gpio.pbi
 E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\stm32f10x_i2c.pbi
-E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\stm32f10x_it.pbi
 E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\stm32f10x_iwdg.pbi
 E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\stm32f10x_pwr.pbi
 E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\stm32f10x_rcc.pbi
@@ -30,5 +31,4 @@ E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\stm32f10x_spi.pbi
 E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\stm32f10x_tim.pbi
 E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\stm32f10x_usart.pbi
 E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\stm32f10x_wwdg.pbi
-E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\system_stm32f10x.pbi
-E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\uart.pbi
+E:\桌面\FreeRTOS\f103vct6_easylog\Debug\Obj\main.pbi
